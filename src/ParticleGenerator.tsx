@@ -149,7 +149,7 @@ export function ParticleGenerator() {
   return (
     <div className="flex h-screen bg-gray-50 relative">
       <a
-        href="https://c4m1r.github.io"
+        href="https://c4m1r.github.io/"
         target="_blank"
         rel="noopener noreferrer"
         className="absolute top-4 left-4 z-10 bg-blue-600 hover:bg-blue-700 text-white px-4 py-2 rounded-lg shadow-lg transition-colors duration-200 font-medium"
